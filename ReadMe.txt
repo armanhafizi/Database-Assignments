@@ -1,0 +1,1 @@
+This folder consists of the answers to the assignments in SQL. Feel free to contact me for more information.
